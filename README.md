@@ -1,4 +1,4 @@
-# Sonic2X2: SONIC (G1) → AgiBot X2 Whole-Body Control Transfer
+# Sonic2AgiX2: SONIC (G1) → AgiBot X2 Whole-Body Control Transfer
 
 Closed-loop policy in MuJoCo (left) vs. reference (right):
 
